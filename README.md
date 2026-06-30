@@ -21,11 +21,9 @@ My experiments on the **Tiny Shakespeare** corpus yielded the following power-la
 
 ## 📂 Repository Structure
 ```text
-├── report/
-│   └── main.pdf           # Detailed research paper
-├── src/
-│   ├── model.py           # Core Transformer architecture
-│   ├── train_scaling.py   # Training sweep configuration
-│   └── plot_scaling.py    # Regression & visualization logic
+├── report.pdf             # Detailed research pape
+├── model.py               # Core Transformer architecture
+├── train_scaling.py       # Training sweep configuration
+└── plot_scaling.py        # Regression & visualization logic
 └── notebooks/
-    └── replication.ipynb  # Interactive development environment
+    └── task.ipynb  # Interactive development environment
